@@ -1,0 +1,209 @@
+html {
+    background-color: white;
+}
+
+header {
+    background-color: rgba(81, 31, 173, 0.759);
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+.menu {
+    text-align: center;
+}
+
+/*Menu Buttons*/
+a {
+    display: inline-block;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+/*Color of Links For Websites Having Already Been Visisted
+a:visited {
+    color: rgb(250, 250, 250);
+}
+*/
+
+/*Color of Links*/
+a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+/*Color of Links When Hovering Over Them With Mouse*/
+a:hover {
+    color: black;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+
+.content {
+    background-color: rgba(14, 87, 136, 0.993);
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 90%;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.content h3 {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    color: white;
+}
+
+
+.Games {
+    text-align: center;
+    display: inline-block
+}
+
+.Games img {
+    width: 315px;
+    height: 250px;
+    margin: auto;
+}
+
+.Games p, ul, li {
+    text-align: left;
+    margin: auto;
+}
+
+.dwtd {
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+}
+
+.dwtd a {
+    color: white;
+    font-size: large;
+}
+
+.dwtd a:hover {
+    color: black;
+}
+
+.GraveRunners {
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+}
+
+.GraveRunners a {
+    color: white;
+    font-size: large;
+}
+
+.GraveRunners a:hover {
+    color: black;
+}
+
+.dissolution {
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+}
+
+.dissolution a {
+    color: white;
+    font-size: large;
+}
+
+.dissolution a:hover {
+    color: black;
+}
+
+.sneakyslumbers {
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+}
+
+.sneakyslumbers a {
+    color: white;
+    font-size: large;
+}
+
+.sneakyslumbers a:hover {
+    color: black;
+}
+
+.spiral {
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+}
+
+.spiral a {
+    color: white;
+    font-size: large;
+}
+
+.spiral a:hover {
+    color: black;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background-color: #041f5af6;
+    color: white;
+}
+
+.Contact {
+    text-align: left;
+    margin-left: 5%;
+}
+
+dl {
+    line-height: 2.0;
+}
+
+dt {
+    font-size: medium;
+}
+
+dd {
+    font-size: small;
+}
